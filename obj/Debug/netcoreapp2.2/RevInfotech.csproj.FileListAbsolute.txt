@@ -1,0 +1,42 @@
+F:\RevInfotech\bin\Debug\netcoreapp2.2\RevInfotech.deps.json
+F:\RevInfotech\bin\Debug\netcoreapp2.2\RevInfotech.runtimeconfig.json
+F:\RevInfotech\bin\Debug\netcoreapp2.2\RevInfotech.runtimeconfig.dev.json
+F:\RevInfotech\bin\Debug\netcoreapp2.2\RevInfotech.dll
+F:\RevInfotech\bin\Debug\netcoreapp2.2\RevInfotech.pdb
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.csprojAssemblyReference.cache
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.csproj.CoreCompileInputs.cache
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.RazorAssemblyInfo.cache
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.RazorAssemblyInfo.cs
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.AssemblyInfoInputs.cache
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.AssemblyInfo.cs
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.RazorTargetAssemblyInfo.cache
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.dll
+F:\RevInfotech\obj\Debug\netcoreapp2.2\RevInfotech.pdb
+F:\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.deps.json
+F:\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.runtimeconfig.json
+F:\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.runtimeconfig.dev.json
+F:\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.dll
+F:\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.pdb
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.csproj.CoreCompileInputs.cache
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.RazorAssemblyInfo.cache
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.RazorAssemblyInfo.cs
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.AssemblyInfoInputs.cache
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.AssemblyInfo.cs
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.RazorTargetAssemblyInfo.cache
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.dll
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.pdb
+F:\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.csprojAssemblyReference.cache
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.deps.json
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.runtimeconfig.json
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.runtimeconfig.dev.json
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.dll
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\bin\Debug\netcoreapp2.2\RevInfotech.pdb
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.csprojAssemblyReference.cache
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.csproj.CoreCompileInputs.cache
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.RazorAssemblyInfo.cache
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.RazorAssemblyInfo.cs
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.AssemblyInfoInputs.cache
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.AssemblyInfo.cs
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.RazorTargetAssemblyInfo.cache
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.dll
+F:\RevInfotech Project API\08-29-2019\Revinfotech1\obj\Debug\netcoreapp2.2\RevInfotech.pdb
